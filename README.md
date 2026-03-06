@@ -43,7 +43,7 @@ The application allows users to **create, update, delete, and schedule tasks wit
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nikunj-Panchal-27/Nik-Todo-App.git
+https://github.com/Nikunj-Panchal-27/Nik-Todo-App.git
 ```
 
 2. Open the project in **Android Studio**
